@@ -66,4 +66,4 @@ All header files are guarded
 *$*<br/>
 
 ## Authors
-Brandyn Reindel & Osama Basheer
+joel ngunjiri
